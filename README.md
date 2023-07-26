@@ -1,2 +1,7 @@
-# Apache ECharts
-Example Apache ECharts for Angular
+# Apache ECharts 
+
+for example Angular cli 
+
+## Npm install
+
+npm install echarts
