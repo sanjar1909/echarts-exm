@@ -1,2 +1,2 @@
-# echarts-exm
-Example ngx-echarts for Angular
+# Apache ECharts
+Example Apache ECharts for Angular
